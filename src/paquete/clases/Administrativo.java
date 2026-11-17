@@ -5,7 +5,7 @@
 package paquete.clases;
 
 /**
- *
+ *44444
  * @author user
  */
 public class Administrativo extends Empleado
